@@ -2,16 +2,11 @@ import 'package:flutter/material.dart';
 
 import './question.dart';
 
-// void main() {
-//   runApp(MyFirstApp());
-// }
-
 void main() => runApp(MyFirstApp());
 
 class MyFirstApp extends StatefulWidget {
   @override
   State<StatefulWidget> createState() {
-    // TODO: implement createState
     return _MyFirstAppState();
   }
 }
